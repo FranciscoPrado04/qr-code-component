@@ -22,7 +22,7 @@ img {
   width: 100%;
   margin: 0 auto;
   border-radius: 15px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 
 .container {
@@ -38,8 +38,8 @@ img {
 .white-box {
   padding: 14px;
   background-color: var(--white);
-  width: 260px;
-  height: 400px;
+  width: 300px;
+  height: 460px;
   border-radius: 20px;
 }
 
@@ -49,17 +49,18 @@ img {
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-  /*  background-color: brown; */
+  width: 90%;
 }
 
 .text .title {
   color: var(--dark-blue);
   margin-bottom: 10px;
   font-weight: 700;
+  font-size: 1.3rem;
 }
 .text .sub-title {
   color: var(--grayish-blue);
   text-align: center;
   font-weight: 500;
-  font-size: 13px;
+  font-size: 14px;
 }
